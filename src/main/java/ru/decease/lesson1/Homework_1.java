@@ -1,4 +1,4 @@
-package ru.decease;
+package ru.decease.lesson1;
 
 public class Homework_1 {
     public static void main(String[] args) {
